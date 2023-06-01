@@ -1,21 +1,27 @@
-# Let There Be Smite!
+# Let There Be Smite
 
-## Warning: Flash
+![](images/let-there-be-smite-banner.png)
 
-This game was exported in Flash and, as you probably know, Flash has been discontinued. As such, I can only provide access to the source code and the `.swf` file at the moment.
-
-If you happen to have an ancient computer that still runs Flash in the browser, or a copy of the Adobe Flash Standalone Player, you should be able to run the game.
-
-At some point I may port the game to JavaScript or similar, and it's possible that the [ruffle](https://ruffle.rs/) Flash emulator will get to a point where this game will run again. Let's see.
-
-## Links
-
-* [The original .swf file](https://github.com/pippinbarr/let-there-be-smite/releases/tag/swf)
-* [Code repository](https://github.com/pippinbarr/let-there-be-smite)
+## [Play Online](https://pippinbarr.com/let-there-be-smite/) (desktop browser, flash emulation with [ruffle](https://ruffle.rs))
 
 ## Description
-Let There Be Smite! was written in ActionScript 3 using Adobe's FlashBuilder 4.0 and the excellent [Flixel](http://flixel.org/) library. It uses free sound files from the internet provided by people who didn't ask for attribution and aren't getting any!
 
-~~You can read [my writing about the game](http://www.pippinbarr.com/tag/let-there-be-smite?order=asc) on my blog.~~ Let There Be Smite! was also written about by [Gamers With Jobs](http://www.gamerswithjobs.com/node/109017) and [Trinn](http://trinn.webs.com/june2011.htm), got some love from [Unwinnable](http://www.unwinnable.com/2011/09/13/pippin-barr-break/), and was mentioned on [O'Reilly Radar](http://radar.oreilly.com/2011/07/four-short-links-4-july-2011.html).
+*A God-game from another mother! Whatever that means! Take on the Big Job and decide whether to punish or forgive all the Sinners in the world! If you get sick of them, just flood the planet!*
 
-Let There Be Smite! has appeared in the exhibition [Terrifying Noble Splendid](http://www.tempartspace.com/tns/) at [TEMP](http://www.tempartspace.com/).
+Let There Be Smite! was written in ActionScript 3 using Adobe's FlashBuilder 4.0 and the excellent [Flixel](http://flixel.org/) library. It uses free sound files from the internet provided by people who didn't ask for attribution and aren't getting any! The game is now being presented in emulation thanks to [ruffle](https://ruffle.rs).
+
+## Press
+
+* [Gamers With Jobs](http://www.gamerswithjobs.com/node/109017)
+* [Trinn](http://trinn.webs.com/june2011.htm)
+* [Unwinnable](http://www.unwinnable.com/2011/09/13/pippin-barr-break/)
+* [O'Reilly Radar](http://radar.oreilly.com/2011/07/four-short-links-4-july-2011.html).
+
+## Documentation
+
+* Read the [Process documentation](../process)
+* Look at the [code repository](https://github.com/pippinbarr/let-there-be-smite) for source code, the original .swf file etc.
+
+## License
+
+*Let There Be Smite* is an open source game licensed under a [Creative Commons Attribution-NonCommercial 3.0 Unported License](http://creativecommons.org/licenses/by-nc/3.0/). You can obtain the source code from its [code repository](https://github.com/pippinbarr/let-there-be-smite).
